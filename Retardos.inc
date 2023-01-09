@@ -1,13 +1,16 @@
 ;_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 ;    
 ;FILE:  Retardos.inc
-;BRIEF: Lo que se hace acontinuación es una librería de retardos de diferentes tiempos.
+;BRIEF: Lo que se hace acontinuaciÃ³n es una librerÃ­a de retardos de diferentes tiempos.
 ;Frecuencia a trabajar = 4MHz
 ;TCY = 1us
 ;DATE:  08/01/2023
 ;AUTOR: Ronaldo David Jaime Chiroque 
 ;_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
       
+
+
+
 
 PSECT udata_acs
 Contador1: DS 1	    ;Lo que hacemos es reservar 1 bytes en acces RAM 
